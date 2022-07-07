@@ -1,3 +1,3 @@
-This is an absolute bare-bones template for a figma plugin using vue.
+This is an absolute bare bones template for a figma plugin written in Vue.
 
-Entry point is the dist folder filed which are generated on a `yarn build` or `npm run build`
+The entry point is the dist folder `code.js` and `index.html` files, which are generated on a `yarn build` or `npm run build`
