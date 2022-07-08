@@ -1,6 +1,6 @@
 {
-	"name": "test",
-	"id": "",
+	"name": "vue-figma-plugin",
+	"id": "{{ id }}",
 	"api": "1.0.0",
     "editorType": ["figma"],
 	"main": "dist/code.js",
